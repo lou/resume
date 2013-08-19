@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1376321163 "resume.tex" "resume.pdf" "resume" 1376321164
+["pdflatex"] 1376916960 "resume.tex" "resume.pdf" "resume" 1376916960
   "/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii" 1337017135 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2013/texmf-dist/tex/generic/ifxetex/ifxetex.sty" 1284331290 1458 43ab4710dc82f3edeabecd0d099626b2 ""
   "/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/gettitlestring.sty" 1303254447 8237 52810bdb4db2270e717422560a104aea ""
@@ -29,10 +29,10 @@
   "/usr/local/texlive/2013/texmf-dist/tex/latex/tools/array.sty" 1254151720 13146 3e38b06d6e7ca62ce1bdb63b0d6148a5 ""
   "/usr/local/texlive/2013/texmf-dist/tex/latex/url/url.sty" 1264379145 21932 e3a9cf32ee9b853b42be14c2f25b873c ""
   "/usr/local/texlive/2013/texmf-dist/tex/latex/xcolor/xcolor.sty" 1169481954 55224 a43bab84e0ac5e6efcaf9a98bde73a94 ""
-  "resume.aux" 1376321164 662 b2b94621371df8d9296b8bf5bec1b851 ""
-  "resume.cls" 1376321160 4761 9254d9f074a64b621c2097b81fb29259 ""
-  "resume.out" 1376321164 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "resume.tex" 1376321163 5258 e71ddd0f207dc6279034399f2e263ad0 ""
+  "resume.aux" 1376916960 662 b2b94621371df8d9296b8bf5bec1b851 ""
+  "resume.cls" 1376411808 4775 6b40777bdffc99b8a54edf8a50cace7f ""
+  "resume.out" 1376916960 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "resume.tex" 1376916959 5316 7ba487798d7aaebf2661418b1285dea5 ""
   (generated)
   "resume.out"
   "resume.pdf"
